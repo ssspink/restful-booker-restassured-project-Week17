@@ -1,0 +1,7 @@
+com\restful\booker\crudtest\PatchTest.class
+com\restful\booker\crudtest\DeleteTest.class
+com\restful\booker\crudtest\PostTest.class
+com\restful\booker\AppTest.class
+com\restful\booker\crudtest\GetTest.class
+com\restful\booker\crudtest\PutTest.class
+com\restful\booker\testbase\TestBase.class
